@@ -1,0 +1,13 @@
+body{
+    background-color: yellow;
+}
+img{
+    display: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    border-width: 20px;
+    border-radius: 50%;
+    border-style: ridge;
+    border-color: black;
+}
